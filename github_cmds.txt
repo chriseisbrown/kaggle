@@ -1,2 +1,3 @@
+# coment: use these commands in a git terminal from your notebook
 git config --global user.name "chriseisbrown"
 git config --global user.email "chriseisbrown@gmail.com"
